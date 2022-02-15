@@ -93,7 +93,7 @@ Canary App, Canary in Instagram, Admin logweb으로 구성되어 있으며, 앱�
 <details>
  <summary>🖊개발 문서</summary>
  
-- [**개발 회의록**](https://drive.google.com/drive/folders/1UYCweZCtKjsFISHIz10-djEl1ZhHLYxK?usp=sharing)
+- [**회의록**](https://drive.google.com/drive/folders/1UYCweZCtKjsFISHIz10-djEl1ZhHLYxK?usp=sharing)
 
 - [Github wiki home](https://github.com/osamhack2021/AI_APP_WEB_Canary_Canary/wiki)
 - [DesignThinking](https://github.com/osamhack2021/AI_APP_WEB_Canary_Canary/wiki/DesignThinking)
