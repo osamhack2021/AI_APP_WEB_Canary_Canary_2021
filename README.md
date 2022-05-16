@@ -94,6 +94,7 @@ Canary App, Canary in Instagram, Admin logweb으로 구성되어 있으며, 앱�
  <summary>🖊개발 문서</summary>
  
 - [**회의록**](https://drive.google.com/drive/folders/1UYCweZCtKjsFISHIz10-djEl1ZhHLYxK?usp=sharing)
+- [**멘토링 일지**](https://hackmd.io/q1_rnl-XQBOHWSAN0XPcOg)
 
 - [Github wiki home](https://github.com/osamhack2021/AI_APP_WEB_Canary_Canary/wiki)
 - [DesignThinking](https://github.com/osamhack2021/AI_APP_WEB_Canary_Canary/wiki/DesignThinking)
@@ -103,7 +104,7 @@ Canary App, Canary in Instagram, Admin logweb으로 구성되어 있으며, 앱�
 - [개발 일지-FrontEnd](https://github.com/osamhack2021/AI_APP_WEB_Canary_Canary/wiki/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C)
 - [개발 일지-Instagra chatbot](https://github.com/osamhack2021/AI_APP_WEB_Canary_Canary/wiki/SNS-Bot)
 - [개발 타임라인](https://github.com/osamhack2021/AI_APP_WEB_Canary_Canary/wiki/%EA%B0%9C%EB%B0%9C-%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8)
-- [멘토링 일지](https://github.com/osamhack2021/AI_APP_WEB_Canary_Canary/wiki/%EB%A9%98%ED%86%A0%EB%A7%81-%EC%9D%BC%EC%A7%80)
+
 
 
 
